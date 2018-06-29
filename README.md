@@ -1,5 +1,7 @@
 # mw-node-qunit
 
+## Repository moved to https://github.com/wikimedia/mw-node-qunit
+
 A QUnit test runner for node, that adds some mediawiki specific things.
 
 ```
